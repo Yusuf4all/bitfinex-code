@@ -1,0 +1,36 @@
+.ticker-body-Style {
+  color: white;
+  background-color: #253038;
+}
+.ticker-style {
+  width: 25%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.message {
+  color: #959a9e;
+}
+
+.logo {
+  height: 100%;
+  align-items: center;
+}
+
+ul li h5 {
+  font-size: 16px;
+}
+
+ul li h6 {
+  font-size: 12px;
+}
+.high-light-Rate {
+  color: #54b69b;
+}
+
+/* .left-content {
+  height: 100%;
+  align-items: center;
+} */
